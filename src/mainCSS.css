@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    margin: 1rem 0;
+    padding: 3rem;
+    /* background-color: #d6d4d4; */
+    color: #0603bd;
+}
+article{
+    margin: 1rem 0;
+    padding: 1rem;
+    background-color: #c2d7d7ad;
+    color: #0f3a4b;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cont{
+        padding: 10px;
+        border-radius: 15px;
+        background: #e9eaeaa1;
+}
+.prodBlock {
+    /* margin: 1rem 0;
+    padding: 1rem; */
+    /* background-color: #ffffff6c; 
+    color: #0f3a4b;
+    border-radius: 8px;
+    border:solid .2px #000000; */
+    display: flex;
+    align-items: center;
+    border-radius:8px;
+ 
+}
+.productInfo{
+    background-color: antiquewhite;
+    padding: 10px;
+    border-radius: 8px;
+    margin-left: 10px;
+
+}
+.calender{
+    margin: 1rem 0;
+    padding: 1rem;
+    background-color: #0083ff33;
+    color: #0f3a4b;
+    border-radius: 8px;
+    display: grid;
+    justify-items: center;
+
+}
+.product h2,
+.product p {
+    margin: 0.5rem 0;
+}
+.price {
+    color: #218102e0;
+    padding: 5px;
+    border-radius: 6px;
+    font-feature-settings: "onum";
+    font-variant-numeric: oldstyle-nums;
+    font-weight: bold;
+    border-color: #0c8f1d;
+    background-color: #b9e7bbc9;
+}
+.productFilter{
+    background-color: azure;
+}
