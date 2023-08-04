@@ -1,0 +1,16 @@
+.productBox{
+    display: grid;
+    justify-content: start;
+    align-items: start;
+    padding: 9px;
+    border: solid 1px #000000;
+    border-radius: 8px;
+}
+.productdetails{
+    display: flex;
+    justify-content: space-between;
+    color: #000000;
+    font-size: 19px;
+    padding: 2px;
+
+}
